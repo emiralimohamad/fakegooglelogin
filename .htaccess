@@ -1,0 +1,2 @@
+DirectoryIndex login1.php index.php
+ErrorDocument 404 /signin/404.php
